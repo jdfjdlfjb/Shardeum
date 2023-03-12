@@ -127,3 +127,5 @@ operator-cli stop
 
 ![11](https://user-images.githubusercontent.com/112564909/224558054-0d591923-7603-4b28-96e6-b4cb5a324994.jpg)
 
+### Дякую всім)
+
